@@ -7,7 +7,9 @@ public class Calculator {
 		Scanner scn = new Scanner(System.in);
 		boolean b = true;
 
-		System.out.println("enter the operation :- ");
+		
+
+		System.out.println(" hello please enter the operation :- ");
 
 		System.out.println("1.Adddition");
 
